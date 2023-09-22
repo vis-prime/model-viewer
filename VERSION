@@ -1,0 +1,11 @@
+commit a706f2e203f2e1987d9d85f87c474b4de9ab742b
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Sep 22 16:28:01 2023 -0700
+
+    Fix glTF lights (#4477)
+    
+    * fixed light parenting
+    
+    * fix warning
+    
+    * fixed screenshots
